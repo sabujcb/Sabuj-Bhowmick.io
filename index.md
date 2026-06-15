@@ -9,10 +9,12 @@
 
 | Category | Technologies & Toolkits |
 | :--- | :--- |
-| **Data Science & Modeling** | ![Python](https://shields.io) ![R](https://shields.io) ![XGBoost](https://shields.io) ![TensorFlow](https://shields.io) ![PyTorch](https://shields.io) ![STATA](https://shields.io) ![SPSS](https://shields.io) ![MATLAB](https://shields.io) |
+| **Microbiome & Bioconductor** | ![Bioconductor](https://shields.io) ![Microbiome Analysis](https://shields.io) ![Multiomics Integration](https://shields.io) ![Joint RPCA Workflows](https://shields.io) |
+| **Data Science & Modeling** | ![Python](https://shields.io) ![R](https://shields.io) ![XGBoost](https://shields.io) ![TensorFlow](https://shields.io) ![PyTorch](https://shields.io) ![STATA](https://shields.io) ![SPSS](https://shields.io) |
 | **Data Engineering & BI** | ![Pandas](https://shields.io) ![NumPy](https://shields.io) ![SQL](https://shields.io) ![MongoDB](https://shields.io) ![Power BI](https://shields.io) |
 | **IoT & Edge Computing** | ![Arduino](https://shields.io) ![Raspberry Pi](https://shields.io) ![MQTT](https://shields.io) ![LoRa](https://shields.io) ![FreeRTOS](https://shields.io) |
 | **Platforms & Infrastructure** | ![Linux](https://shields.io) ![Bash](https://shields.io) ![Docker](https://shields.io) ![AWS](https://shields.io) |
+
 
 ---
 
