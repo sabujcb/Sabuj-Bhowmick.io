@@ -142,10 +142,10 @@ Population Council | Dhaka, Bangladesh | 2012–2013
 
 ## 📬 Contact
 
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [LinkedIn Profile URL]
+- **Email:** [sabuj606@gmail.com]
+- **LinkedIn:** [www.linkedin.com/in/sabuj-bhowmick]
 - **Portfolio/Website:** [if any]
-- **Location:** Kuopio, Finland
+- **Location:** Turku,Finland
 
 ---
 
