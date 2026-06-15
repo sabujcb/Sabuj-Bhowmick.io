@@ -1,1 +1,28 @@
+project:
+  type: website
+  output-dir: docs  # Tells GitHub to look here for the polished site
+
+website:
+  title: "Sabuj Bhowmick"
+  description: "Data Scientist & IoT Engineer"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Data Science Projects
+      - href: publications.qmd
+        text: Research
+    right:
+      - icon: github
+        href: https://github.com
+      - icon: linkedin
+        href: https://linkedin.com
+
+format:
+  html:
+    theme: cosmo  # Gives you a clean, crisp, corporate appearance
+    toc: true     # Generates an interactive table of contents on the side
 
